@@ -1,4 +1,4 @@
-# Hi there, I'm [Nuruddin Jewel]  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Hi there, I'm Nuruddin Jewel  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&width=700&lines=MS+in+Applied+Mathematics;Web+Developement+Learner;Building+Impactful+Web+Apps!;Tech+Enthusiast+%F0%9F%9A%80;Turning+Logic+into+Beautiful+UIs!)
 
