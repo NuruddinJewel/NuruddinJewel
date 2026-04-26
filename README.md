@@ -46,9 +46,10 @@ I'm a passionate developer with a strong academic foundation in **Applied Mathem
 ## 🗺️ My Learning Roadmap
 
 ```
-✅ HTML5          →  ✅ CSS3          →  ✅ JavaScript
-✅ JS (ES6+)      →  ✅ React.js      →  🔄 MERN Stack (In Progress)
-🔜 Node.js        →  🔜 Express.js   →  🔜 MongoDB
+✅ HTML5             ✅ CSS3             ✅ JavaScript
+✅ JS (ES6+)         ✅ React.js         🔄 Next.js 
+🔄 Node.js           🔄 Express.js       🔄 MongoDB
+🔄 MERN Stack (In Progress)
 🔜 Full Stack Projects & Deployment
 ```
 
@@ -57,11 +58,6 @@ I'm a passionate developer with a strong academic foundation in **Applied Mathem
 ## 🚀 Projects & Apps
 
 > 🔨 Currently building projects to apply my skills. Stay tuned!
-
-| Project | Tech Used | Status |
-|--------|-----------|--------|
-| 🔜 Coming Soon | HTML, CSS, JS | 🔄 In Progress |
-| 🔜 React App | React.js | 🔄 In Progress |
 
 > ⭐ Check out my repositories below to see what I'm building!
 
