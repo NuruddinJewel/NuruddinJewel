@@ -11,10 +11,10 @@ I'm a passionate developer with a strong academic foundation in **Applied Mathem
 ## 💎 About Me
 
 - 🎓 **Graduated** with an MS in **Applied Mathematics**
-- 🌱 **Currently Learning** — React.js (deep diving!) & the MERN Stack
-- 🛠️ **Building** projects and web apps to sharpen my skills
+- 💻 **Full-stack developer** skilled in the **MERN Stack**, **TypeScript**, **Next.js**, **PostgreSQL**, and **Prisma**
+- 🛠️ **Building** real-world projects and web apps to apply and sharpen my skills
 - 💡 **Passionate about** creating **user-friendly**, **impactful**, and **interactive** web experiences
-- 🚀 **Goal** — Become a full-stack developer and build products that matter
+- 🚀 **Goal** — Build products that make a real difference and keep growing as a developer
 - 🔢 I bring a **problem-solving mindset** from my math background to every project I build
 
 ---
